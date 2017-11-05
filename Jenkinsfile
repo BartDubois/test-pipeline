@@ -1,3 +1,3 @@
 node {
- bat "powershell get-item env:
+ bat "powershell get-item env:"
 }
